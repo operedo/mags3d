@@ -1,0 +1,39 @@
+
+ GAMV Version: 3.000
+
+  data file = muestras.dat                            
+  columns for X,Y,Z =            1           2           3
+  number of variables =            1
+  columns =            4
+  trimming limits =   -1.000000      1.0000000E+21
+  output file = targetimage.out                         
+  number of lags =            7
+  lag distance =    20.00000    
+  lag tolerance =    10.00000    
+  number of directions =            1
+  azm, atol, bandwh =   0.0000000E+00   90.00000       20.00000    
+  dip, dtol, bandwd =   0.0000000E+00   20.00000       5.000000    
+  flag to standardize sills =            0
+  number of variograms =            1
+  tail,head,type =            1           1           1
+ 
+ maxdat =         2376
+ Variable number            1
+   Number   =         2376
+   Average  =    1.054120    
+   Variance =   0.4158961    
+ 
+ Variogram  1 Semivariogram          :  tail=Ley de cobre head=Ley de cobre   
+   currently on       237 of      2376
+   currently on       474 of      2376
+   currently on       711 of      2376
+   currently on       948 of      2376
+   currently on      1185 of      2376
+   currently on      1422 of      2376
+   currently on      1659 of      2376
+   currently on      1896 of      2376
+   currently on      2133 of      2376
+   currently on      2370 of      2376
+
+ GAMV Version: 3.000 Finished
+

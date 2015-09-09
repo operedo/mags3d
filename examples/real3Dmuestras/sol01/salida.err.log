@@ -1,0 +1,9 @@
+experimental variogram and number of pairs loaded.
+weights (octant) loaded.
+weights loaded.
+Moving average image generated.
+starting cost function calculation...
+stoping cost function calculation...
+initial cost=0.037661
+22342.27user 19.21system 1:33:18elapsed 399%CPU (0avgtext+0avgdata 24464maxresident)k
+0inputs+291368outputs (0major+490252minor)pagefaults 0swaps

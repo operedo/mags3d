@@ -1,0 +1,45 @@
+
+ GAMV Version: 3.000
+
+  data file = targetimage.nscore                      
+  columns for X,Y,Z =            1           2           3
+  number of variables =            1
+  columns =            5
+  trimming limits =  -1.0000000E+21  1.0000000E+21
+  output file = targetimage.out                         
+  number of lags =           20
+  lag distance =    1.000000    
+  lag tolerance =   0.1000000    
+  number of directions =            1
+  azm, atol, bandwh =   0.0000000E+00  0.0000000E+00   20.00000    
+  dip, dtol, bandwd =   0.0000000E+00  0.0000000E+00   20.00000    
+  flag to standardize sills =            0
+  number of variograms =            1
+  tail,head,type =            1           1           1
+ 
+ maxdat =        16384
+ Variable number            1
+   Number   =        16384
+   Average  =   0.0000000E+00
+   Variance =   0.9999193    
+ 
+ Variogram  1 Semivariogram          :  tail=NS:data      head=NS:data        
+   currently on      1000 of     16384
+   currently on      2000 of     16384
+   currently on      3000 of     16384
+   currently on      4000 of     16384
+   currently on      5000 of     16384
+   currently on      6000 of     16384
+   currently on      7000 of     16384
+   currently on      8000 of     16384
+   currently on      9000 of     16384
+   currently on     10000 of     16384
+   currently on     11000 of     16384
+   currently on     12000 of     16384
+   currently on     13000 of     16384
+   currently on     14000 of     16384
+   currently on     15000 of     16384
+   currently on     16000 of     16384
+
+ GAMV Version: 3.000 Finished
+

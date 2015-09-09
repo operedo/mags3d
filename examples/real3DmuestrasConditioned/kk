@@ -1,0 +1,3 @@
+numcols=4 maxdat=2376
+(before) condCost=0.000000 (control=1737)
+(after) condCost=1489.449463 (control=1660)
