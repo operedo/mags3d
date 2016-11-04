@@ -1,5 +1,6 @@
 #include <time.h>
 #include <stdlib.h>
+#include <math.h>
 #include <mags3d.h>
 
 TYPE * genRandomImage(int xsize, int ysize, int zsize){

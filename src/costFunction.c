@@ -1,5 +1,6 @@
 #include <time.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <mags3d.h>
 
 TYPE costFunction(int nlags, TYPE *expVariogram, int *npairs,TYPE *image,int nx,int ny,int nz,int bufferNodes){
